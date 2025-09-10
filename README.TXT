@@ -12,3 +12,7 @@ It is discussed in chapter 3.
 To use this project, create an instance of class NumberDisplay. Then inspect this 
 instance and leave the inspector window open. With the inspector window open, 
 call the object's methods, such as increment and setValue.
+
+2. It can change while you are designing and writing the code. How it changes is when you add, remove or change something. 
+3. It can change while the program is running. How it changes is when you create new objects, remove an object, etc. 
+4. private Instructor tutor; 
