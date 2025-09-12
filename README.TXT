@@ -20,3 +20,5 @@ call the object's methods, such as increment and setValue.
 10. Error: non-static method getValue() cannot be referenced from a static context
 11. Error: '.class' expected / What is incorrect about this call is that java already knows that 5 is int, theres no need to add it. 
 12. Using "<" keeps the maximum value one less then the limit and using "<=" lets the limit itself become a value. 
+13. Using ">=0" it makes it 0-9 and using ">0" makes it 1-9. 
+14. && forces positive numbers only and || accepts most of any numbers which counts negatives numbers also. 
