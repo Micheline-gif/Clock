@@ -22,3 +22,6 @@ call the object's methods, such as increment and setValue.
 12. Using "<" keeps the maximum value one less then the limit and using "<=" lets the limit itself become a value. 
 13. Using ">=0" it makes it 0-9 and using ">0" makes it 1-9. 
 14. && forces positive numbers only and || accepts most of any numbers which counts negatives numbers also. 
+15. True: !false, (34 != 33) && !false
+16. (a && b) is true only if both are true and (!a && !b) is true only if both are false. 
+18. 
