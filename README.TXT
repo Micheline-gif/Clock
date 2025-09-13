@@ -24,4 +24,5 @@ call the object's methods, such as increment and setValue.
 14. && forces positive numbers only and || accepts most of any numbers which counts negatives numbers also. 
 15. True: !false, (34 != 33) && !false
 16. (a && b) is true only if both are true and (!a && !b) is true only if both are false. 
-18. 
+18. It only works for 2 digits number, putting the limit to 1000 wont always be 2 digits.
+19. They both do the same thing, the only difference is the order of "" and value.
